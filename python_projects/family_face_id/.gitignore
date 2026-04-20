@@ -1,0 +1,6 @@
+# Ignore the data file (it's personal and binary)
+faces_data.npz
+
+# Ignore Python cache
+__pycache__/
+*.pyc
